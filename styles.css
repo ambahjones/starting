@@ -1,0 +1,91 @@
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2 {
+  padding-bottom: 20px;
+  font-size: 24px;
+}
+
+p {
+  padding: 10px;
+  margin: 0px;
+}
+
+.pageSegment {
+  width: 90%;
+  margin: 20px auto;
+  padding: 25px;
+  border: 1px solid black;
+}
+
+.colorBox {
+  display: inline-block;
+  width: 20%;
+  max-height: 126px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.colorBox p {
+  margin: 10px;
+}
+
+#black {
+  background-color: #000;
+  color: #efefef;
+}
+
+#gray {
+  background-color: #666666;
+}
+
+#blood-red {
+  background-color: #aa0b0b;
+}
+
+#lt-wm-gray {
+  background-color: #efefef;
+}
+
+.fontList {
+  display: inline-block;
+  width: 45%;
+  padding: 0 20px 20px 20px;
+}
+
+.noto {
+  font-family: "Noto Serif", serif;
+}
+
+.head {
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.fira {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.caveat {
+  font-family: "Caveat", cursive;
+}
+
+#heading {
+  font-size: 60px;
+}
+
+#heading2 {
+  font-size: 24px;
+}
